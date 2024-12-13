@@ -1,0 +1,5 @@
+const dataproj = [{ id: 1, title: 'Youtube', link: 'https://youtuubbe.netlify.app/', image: '/src/assets/youtubelogo.png', para: 'In this Youtube Clone I have used Firebase for Authentication , React as frontend library and Tailwind CSS for modern responsiveness of this website' },
+{ id: 2, title: 'Epic Games', link: 'https://epicgamess.netlify.app/', image: 'https://logos-world.net/wp-content/uploads/2021/12/Epic-Games-Symbol.png', para: 'In this Youtube Clone I have used Firebase for Authentication , React as frontend library and Tailwind CSS for modern responsiveness of this website' },
+{ id: 3, title: 'Foodoo', link: 'https://fooodoo.netlify.app/', image: '/src/assets/fav-re.png' ,para: 'In this Youtube Clone I have used Firebase for Authentication , React as frontend library and Tailwind CSS for modern responsiveness of this website' },
+]
+export default dataproj
